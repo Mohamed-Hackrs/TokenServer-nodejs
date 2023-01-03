@@ -2,7 +2,7 @@ services:
   - type: web
     name: test
     env: node
-    repo: https://github.com/Mohamed-Hackrs/TokenServer-nodejs.gt
+    repo: https://github.com/Mohamed-Hackrs/TokenServer-nodejs.git
     rootDir: .
     buildCommand: npm install
     startCommand: npm start
