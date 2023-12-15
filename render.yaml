@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: test
+    name: Time-are2
     env: node
     repo: https://github.com/Mohamed-Hackrs/TokenServer-nodejs.git
     rootDir: .
